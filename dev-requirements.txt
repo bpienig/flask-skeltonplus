@@ -1,0 +1,8 @@
+click
+Flask
+Flask-Script
+itsdangerous
+Jinja2
+MarkupSafe
+six
+Werkzeug
